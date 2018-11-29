@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "D:\\IDE\\Anaconda3\\envs\\keras_test\\python.exe",
+    "python.formatting.provider": "black"
+}
